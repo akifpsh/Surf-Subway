@@ -221,7 +221,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   spawnInterval: 0.4
-  timerInterval: 0.4
+  timerInterval: 0.6
   objectPool: {fileID: 16131297}
   maxSpawnAttemptsPerObstacle: 20
   material:
@@ -1142,7 +1142,7 @@ AudioSource:
   m_Volume: 1
   m_Pitch: 1
   Loop: 1
-  Mute: 1
+  Mute: 0
   Spatialize: 0
   SpatializePostEffects: 0
   Priority: 128

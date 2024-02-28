@@ -36,7 +36,6 @@ public class Movement : MonoBehaviour
 
     void Update()
     {
-        Debug.Log(moveSpeed);
 
         if(isSpeedUp)
             timer += Time.deltaTime;
